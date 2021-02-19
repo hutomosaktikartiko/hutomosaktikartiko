@@ -9,6 +9,6 @@
 
 I am a Mobile Developer, I like create Machine Learning Projects
 
-- ⚙️ Stack: Flutter, Python, SQl, Firebase
-- 🏢 I'm currently working on some Freelance Project
+- ⚙️ Stack: Flutter, Python, SQL, Firebase
+- 🏢 I'm currently working on some Freelance Projects
 - 🌱 I'm currently learning about Python, Flutter dan Machine Learning
