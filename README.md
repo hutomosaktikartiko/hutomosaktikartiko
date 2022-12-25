@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hutomosaktikartiko&show_icons=true"> 
-
 ## Hi there I'm Hutomo
 
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&logo=Instagram&style=flat-square&logoColor=red)](https://www.instagram.com/hutomooskoj/)
@@ -12,3 +10,10 @@ I am a Mobile Developer, I like create Machine Learning Projects
 - ⚙️ Stack: Flutter, Swift, Solidity
 - 🏢 I'm currently working as Flutter Developer
 - 🌱 I'm currently learning about Mobile and Blockchain Development
+
+<p align="left">
+<a href="https://github.com/tyoamazinglib">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hutomosaktikartiko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hutomosaktikartiko&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
