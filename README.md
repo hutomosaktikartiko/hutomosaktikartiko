@@ -23,5 +23,5 @@ I'm a **Software Engineer** who loves building apps and exploring new technologi
 </a>
 </p>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hutomosaktikartiko&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
