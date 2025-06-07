@@ -25,3 +25,6 @@ I'm a **Software Engineer** who loves building apps and exploring new technologi
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hutomosaktikartiko&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+
+### 📊 Profile Views
+<img width="200px" src="https://profile-counter.glitch.me/hutomosaktikartiko/count.svg" />
