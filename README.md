@@ -7,9 +7,9 @@
 ### 🚀 About Me  
 I'm a **Software Engineer** who loves building apps and exploring new technologies.  
 
-- 💻 **Tech Stack:** Flutter, Swift, Golang (🆕), Solidity, Rust (🆕), Cloud Functions, and more...  
+- 💻 **Tech Stack:** Flutter, Swift, Golang (🆕), Rust (🆕), Typescript, and more...  
 - 🏢 Currently working as an **iOS Engineer** at a Fintech Company 🇮🇩  
-- 🔗 Passionate about **Blockchain, Mobile Development, and Cloud Computing**  
+- 🔗 Passionate about **Blockchain, Mobile Development, Backend, and Cloud Computing**  
 - 🌱 Always learning and experimenting with new tech.
 
 ---
